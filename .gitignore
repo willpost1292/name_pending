@@ -1,5 +1,10 @@
+# server stuff
 server/build
 server/node_modules
+
+# client stuff
+client/build
+client/node_modules
 
 # ide stuff
 .idea
